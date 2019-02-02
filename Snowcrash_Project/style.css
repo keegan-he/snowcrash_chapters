@@ -1,0 +1,75 @@
+/* CSS Classes */
+
+h1 {
+  font-size: 60pt;
+  font-size-adjust: auto;
+  text-align: center;
+  font-family: 'Monoton', cursive;
+  background-color: rgb(186, 132, 236);
+  background-size: 25%;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: auto;
+}
+
+.chapter {
+  text-align: left;
+  font-family: 'Major Mono Display', monospace;
+  font-size: 30pt;
+  background-color: aquamarine;
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
+}
+
+.break {
+  text-align: left;
+  font-family: 'Major Mono Display', monospace;
+  font-size: 30pt;
+  background-color: aquamarine;
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
+}
+
+p {
+  font-family: 'Questrial', sans-serif;
+  text-align: left;
+  font-size: 25;
+}
+
+.gif {
+  width: 100%;
+  height: auto;
+  margin-left: 10%;
+}
+
+.warning {
+  font-size: 10px;
+}
+.quote {
+  font-size: 20pt;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 15px 150px 5px 80px; 
+  text-align: center;
+}
+
+.trib {
+  font-size: 20pt;
+  font-style: italic;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin: 5px 150px 5px 80px;
+  text-align: center;
+}
+
+.title {
+  font-size: 20pt;
+}
+.mformat {
+  width: 100%;
+  height: auto;
+  margin-left: 10%;
+}
+
+.mgif {
+  margin: 80pt; 
+}
